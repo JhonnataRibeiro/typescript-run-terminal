@@ -1,0 +1,8 @@
+npm init -y                     (inicia o projeto)
+
+npm i typescript -D             (instala o typescript local nessa pasta)
+
+npx tsc index.ts                (compila o ts e gera um js)
+
+npm i ts-node -D                (executa a compilacao e roda no terminal)
+
